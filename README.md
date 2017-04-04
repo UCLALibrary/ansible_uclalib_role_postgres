@@ -10,7 +10,7 @@ This has been tested on Ansible 1.9.4 and higher.
 To install:
 
 ```
-ansible-galaxy install ANXS.postgresql
+ansible-galaxy install ANXS.postgresqltest
 ```
 
 #### Dependencies
